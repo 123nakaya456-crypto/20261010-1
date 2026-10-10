@@ -1,0 +1,24 @@
+{
+  "name": "ダイヤモンド天体 ＆ 目標物 重なり視点チェッカー",
+  "short_name": "ダイヤ天体視点",
+  "description": "太陽・月と目標物（剱岳・富士山・岐阜城等）が1直線に重なるダイヤモンド現象の年間日時と視点Bを割り出す高精度シミュレーター",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#090d16",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "../icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "../icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
